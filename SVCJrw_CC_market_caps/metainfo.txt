@@ -1,4 +1,4 @@
-Name of QuantLet : 'SVCJrw_CC_market_caps‘
+Name of QuantLet : 'SVCJrw_CC_market_caps'
 
 
 

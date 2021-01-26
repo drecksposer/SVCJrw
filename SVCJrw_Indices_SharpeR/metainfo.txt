@@ -1,4 +1,4 @@
-Name of QuantLet : 'SVCJrw_Indices_SharpeR‘
+Name of QuantLet : 'SVCJrw_Indices_SharpeR'
 
 
 
